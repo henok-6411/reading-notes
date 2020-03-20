@@ -1,11 +1,13 @@
-[home page](./reading-notes)
-# Why would a developer choose to make data models?
+[home page](.https//henok-6411.os/reading-notes)
+## Class 03 — Data Modeling & NoSQL Datab. 
 
-# What purpose do CRUD operations serve?
+1.Why would a developer choose to make data models?
 
-# What kind of database is Postgres? What kind of database is MongoDB?
+2. What purpose do CRUD operations serve?
 
-# What is Mongoose and why do we need it?
+3. What kind of database is Postgres? What kind of database is MongoDB?
 
-# Define three related pieces of data in a possible application. An example for a store application might be Product, Category and Department. Describe the contraints and rules on each piece of data and how you would relate these pieces to each other. For example, each Product has a Category and belongs in a Department.
+4. What is Mongoose and why do we need it?
+
+5. Define three related pieces of data in a possible application. An example for a store application might be Product, Category and Department. Describe the contraints and rules on each piece of data and how you would relate these pieces to each other. For example, each Product has a Category and belongs in a Department.
 
