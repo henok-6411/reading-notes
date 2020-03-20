@@ -12,5 +12,3 @@
 5. Define three related pieces of data in a possible application. An example for a store application might be Product, Category and Department. Describe the contraints and rules on each piece of data and how you would relate these pieces to each other. For example, each Product has a Category and belongs in a Department.
 
 
-[class-03](./reading-notes/class-03-reading.md)
-
