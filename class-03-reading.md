@@ -1,4 +1,4 @@
-[home page](https://henok-6411/github.os/reading-notes)
+[home page](https://henok-6411.github.io/reading-notes)
 ## Class 03 — Data Modeling & NoSQL Datab. 
 
 1. Why would a developer choose to make data models?
