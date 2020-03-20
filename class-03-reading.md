@@ -1,7 +1,7 @@
 [home page](.https//henok-6411.os/reading-notes)
 ## Class 03 — Data Modeling & NoSQL Datab. 
 
-1.Why would a developer choose to make data models?
+1. Why would a developer choose to make data models?
 
 2. What purpose do CRUD operations serve?
 
