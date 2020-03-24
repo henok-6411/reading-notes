@@ -2,7 +2,7 @@
 
 # Class 04 — Advanced Mongo/Mongoose. 
 
-1 . What makes an interface useful?
+1. What makes an interface useful?
 * We can easliy see what we have in our database and will have a better approach to our CRUD.  
 2.  Why is middleware called middleware?
 *  Because it's making our transaction smoother between our application and database. 
