@@ -2,7 +2,7 @@
 
 # Class 05 — DSA: Linked Lists
 
-1 .What is a data structure?
+1. What is a data structure?
 * data structure is a way of organizing data for later use of effectively. 
 
 2. How is a Linked List different from an array?
@@ -11,7 +11,7 @@
 3. What is one benefit a Linked List has over an array?
 * it is to add or remove node.  
 
-4  What data does a Node hold in a doubly Linked List?
+4. What data does a Node hold in a doubly Linked List?
 * it holds next and previous which they alow you to forward and backward.  
 
 5. What would you use to implement a Linked List data type? (object, function, class, variable…?)
