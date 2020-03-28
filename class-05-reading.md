@@ -15,4 +15,4 @@
  * it holds next and previous which they alow you to forward and backward.  
 
 5. What would you use to implement a Linked List data type? (object, function, class, variable…?)
- * To implement the list of data or object i will you use class. 
+ * To implement the list of data or object i will use class. 
