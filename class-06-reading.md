@@ -1,5 +1,5 @@
  
- [Home page](https://henok-6411.github.io/Reading-notes/)
+ [home page](https://henok-6411.github.io/reading-notes)
  
 
   # Class 06 — HTTP and REST 
