@@ -4,7 +4,7 @@
 
 What code does the server actually run?
 
-* On the terminal type , Nodemon or app.get('/',(req ,res) => res.send('hellow world');
+* On the terminal type , Nodemon or app.get('/', (req ,res) => res.send('hellow world');
 
 What Express/HTTP operations map to CRUD operations?
 
