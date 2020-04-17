@@ -10,4 +10,5 @@
 - [reading-08](https://henok-6411.github.io/reading-notes/class-08-reading)
 - [reading-09](https://henok-6411.github.io/reading-notes/class-09-reading)
 - [reading-10](https://henok-6411.github.io/reading-notes/class-10-reading)
+- [reading-11](https://henok-6411.github.io/reading-notes/class-11-reading)
 
