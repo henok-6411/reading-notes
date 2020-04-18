@@ -11,3 +11,5 @@ Why are pop, push, enqueue and dequeue always O(1)?
 * When we iterate the nodes to do listed actions,it's going to take us the same amout of time. that is why we call it 0(1).
 
 Why do stacks and queues not have traversal or searching operations?
+
+* Because stacks use FILO or LIFO, and queues use FIFO or LILO, so there is no need to use traversal or searching operations.
