@@ -32,3 +32,17 @@
 3. working for google.                                                   3. I always dream to work at google. as any position. 
 4. senior developer                                                      4. The future goal after few years of experience. 
 5. working outside of USA as importer.                                   5. As a future goal i have a plan to  import from                                                                                   eastafrica ethiopia coffee.
+
+
+# MAKE ROOM FOR WHAT YOU LOVE
+* Maximize
+1. Focuse and study hard.
+2. Make time to my network and built new connection. 
+3. Connecting with God.
+* Minimize
+1.Avoide distruction. 
+2.Avoide judging people and make them friend. 
+3.Avoide extra negative thoughts. 
+
+
+
