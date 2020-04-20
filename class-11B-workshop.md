@@ -40,9 +40,9 @@
 2. Make time to my network and built new connection. 
 3. Connecting with God.
 * Minimize
-1.Avoide distruction. 
-2.Avoide judging people and make them friend. 
-3.Avoide extra negative thoughts. 
+1. Avoide distruction. 
+2. Avoide judging people and make them friend. 
+3. Avoide extra negative thoughts. 
 
 
 
