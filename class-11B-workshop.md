@@ -24,3 +24,11 @@
 * when i am attached with god. 
 # 12. Why do I have the relationships that I have?
 * They all truly make me happy. 
+
+###  CONSIDER YOUR OPTIONS                                              # List your core values based
+
+ 1. Junior software developer.                                            1. By being junior developer is the first step to                                                                               acchieve my bigger goals.                         
+2. Open a small business.                                                2. I enjoy not having a boss.
+3. working for google.                                                   3. I always dream to work at google. as any position. 
+4. senior developer                                                      4. The future goal after few years of experience. 
+5. working outside of USA as importer.                                   5. As a future goal i have a plan to  import from                                                                                   eastafrica ethiopia coffee.
