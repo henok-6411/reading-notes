@@ -25,5 +25,5 @@
  #  fill-in-the-blank 
 
  - JWT stands for JSON,______?
- - Ther three parts of JWT are header,______and _____?
+ - List the  three parts of JWT ? header,______and _____?
  - how do we install the package or module of JWT on node.js _______?
