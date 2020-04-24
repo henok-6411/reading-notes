@@ -8,11 +8,14 @@
     - example of JWT header payload and signature .
     
     /* 
+    
     var HEADER_HASH = base64(header);
     var PAYLOAD_HASH = base64(payload);
     var SIGNATURE_HASH = base64(signature);
     var JTW = HEADER_HASH + '.' + PAYLOAD_HASH + '.' + SIGNATURE_HASH;
+    
     //JTW ~ xxxx.yyyy.zzzz
+    
     */
     
  * There are many libraries to use JWT in to our application, but we are going to see how to install in Node.js jsonwebtoken package. This package will simplify some work for us , the package will create header part. we don't have to write manually  
@@ -20,7 +23,7 @@
  
  
  #  fill-in-the-blank 
- 
- - JWT stands for JSON______?
+
+ - JWT stands for JSON,______?
  - Ther three parts of JWT are header,______and _____?
  - how do we install the package or module of JWT on node.js _______?
