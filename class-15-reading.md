@@ -7,4 +7,5 @@
 - What is the height of a fully balanced (each non-leaf node has two children) tree? What is this used for?
 
 - How are stacks and queues used in relation to trees?
+
   stack works on the principle of lifo that is last in first out. It is used for recursive functions. queue works on the principle of fifo that is first in  first out. linked list is used to insert elements in an array of unknown size.
