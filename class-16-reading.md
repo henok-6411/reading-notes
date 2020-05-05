@@ -8,7 +8,7 @@
 
 ### What does an EventEmitter instance do?
 
- EventEmitter provides multiple properties like on and emit.
+    EventEmitter provides multiple properties like on and emit.
 
 ### When is a program’s call stack, event queue, and event loop active?
 
