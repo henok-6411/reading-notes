@@ -6,4 +6,8 @@ Why are events sometimes better than asynchronous actions with callbacks?
 
 What does an EventEmitter instance do?
 
+ EventEmitter provides multiple properties like on and emit.
+
 When is a program’s call stack, event queue, and event loop active?
+
+  When you need to do heavy computation, which is not required to run sequentially, means next statement can be executed without it. 
