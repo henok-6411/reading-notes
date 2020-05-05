@@ -1,6 +1,6 @@
 [home page](https://henok-6411.github.io/reading-notes)
 
-# Given the examples of front-end events such as button click, window resize, form submit, etc, what are some examples of back-end events?
+### Given the examples of front-end events such as button click, window resize, form submit, etc, what are some examples of back-end events?
 
 # Why are events sometimes better than asynchronous actions with callbacks?
 
