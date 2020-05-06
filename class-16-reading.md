@@ -1,13 +1,13 @@
 [home page](https://henok-6411.github.io/reading-notes)
 
 ### Given the examples of front-end events such as button click, window resize, form submit, etc, what are some examples of back-end events?
-    front end.
-    let fontSize = 0;
-    const changeSize('on' , function(event)){
-    if(event === getelementById('butter'){
-    return fontSize += 5;
-    }
-    }
+   front end.
+   let fontSize = 0;
+   const changeSize('on' , function(event)){
+   if(event === getelementById('butter'){
+   return fontSize += 5;
+   }
+   }
   
     
     
