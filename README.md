@@ -18,4 +18,5 @@
 - [reading-15](https://henok-6411.github.io/reading-notes/class-15-reading)
 - [reading-16](https://henok-6411.github.io/reading-notes/class-16-reading)
 - [reading-17](https://henok-6411.github.io/reading-notes/class-17-reading)
+- [reading-18](https://henok-6411.github.io/reading-notes/class-18-reading)
 
