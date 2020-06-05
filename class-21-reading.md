@@ -1,5 +1,8 @@
 [Home page](https://henok-6411.github.io/Reading-notes/)
 
+# Class 21 — Component Based UI
+
+
 - What is the benefit of breaking up HTML webpage content into components?
   
 - What is JSX? Why is it useful?
