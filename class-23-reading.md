@@ -1,6 +1,6 @@
 [homePage](https://henok-6411.github.io/reading-notes)
 
-Class 23 — Props and State
+### Class 23 — Props and State
 
 - Why might you want to create a FormInput component?
 
