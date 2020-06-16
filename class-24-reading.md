@@ -6,8 +6,6 @@
 
 - If we wanted a component to show up on every page, where would we put it and why?
 
-- Outside the <BrowserRouter/>
-- Inside the <BrowserRouter />, outside a <Route />
-- Inside a <Route />
+ Outside the <BrowserRouter/>
 
 - What does props.children contain?
