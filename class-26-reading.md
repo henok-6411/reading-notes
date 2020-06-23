@@ -11,6 +11,7 @@
     It's less complicated and shorter to write. 
     
 - What is wrong with the following code?
+
  ``` import React, {useState, useEffect} from 'react'; 
    
 function MyComponent(props) {
@@ -36,4 +37,5 @@ function MyComponent(props) {
     </div>);
 }
 ```
+
 renderItems is not using "useState" so that we can't update the DOM. 
