@@ -4,7 +4,7 @@
 
 - What does a component’s lifecycle refer to?
 
-    it refers the cycle from creation to unmount from the DOM.This cycle have four major steps initialization,mounting,updating and unmounting.
+    It refers to the cycle from creation to unmount from the DOM.This cycle have four major steps initialization,mounting,updating and unmounting.
     
 - Why are functional components preferred over class components?
 
@@ -36,4 +36,4 @@ function MyComponent(props) {
     </div>);
 }
 ```
-
+renderItems is not using "useState" so that we can't update the DOM. 
