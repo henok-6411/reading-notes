@@ -26,4 +26,5 @@
 - [reading-24](https://henok-6411.github.io/reading-notes/class-24-reading)
 - [reading-25](https://henok-6411.github.io/reading-notes/class-25-reading)
 - [reading-26](https://henok-6411.github.io/reading-notes/class-26-reading)
+- [reading-27](https://henok-6411.github.io/reading-notes/class-27-reading)
 
