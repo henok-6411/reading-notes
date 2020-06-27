@@ -2,6 +2,16 @@
 
 # Class 26 — Hooks API
 
+``` 
+Links
+Custom Hooks - All You Need to Know
+Async Hooks
+useReducer Hook
+React Custom Hooks
+Use Hooks
+Hooks List
+10 Essential React Hooks
+```
 
 Why do custom hooks need the use prefix?
 
