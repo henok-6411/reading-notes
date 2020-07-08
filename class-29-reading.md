@@ -5,6 +5,8 @@
 
 ### Why would you wrap your entire application within a context?
 
+  - To avoid nested component data structure.
+  
 ### What is the purpose of a reducer?
 
 ### What does an action contain?
