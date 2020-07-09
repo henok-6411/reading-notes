@@ -17,4 +17,4 @@
 
 ### Why do we need to copy the state in a reducer?
 
-- 
+- I believe to have our previous data into our new action or reducer. 
