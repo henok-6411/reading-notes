@@ -9,6 +9,10 @@
   
 ### What is the purpose of a reducer?
 
+ - Reducer takes state and action as an argument, It will modify the state based on the action made.  
+
 ### What does an action contain?
+
+- 
 
 ### Why do we need to copy the state in a reducer?
