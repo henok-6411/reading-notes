@@ -13,6 +13,8 @@
 
 ### What does an action contain?
 
-- 
+- The action behavior,How we want to swich from one case to another. 
 
 ### Why do we need to copy the state in a reducer?
+
+- 
