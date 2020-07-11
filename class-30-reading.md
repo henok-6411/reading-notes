@@ -4,18 +4,25 @@
    ### There are few different types of graphs.
    
    - undirected graphs 
+   
    The connection of the node or vertices is bi-directional, They don't have a pointer to the next node.
    - Directed graphs
+   
    The connection between there node is directional.
    - complete graphs
+   
    when all nodes are connected each other
    - connected graph
+   
    when they have the nodes at list one edge 
    - Disconnected graph 
+   
    when some of the node have not edges. 
-   - acyclic graph 
+   - acyclic graph
+   
    a directed graph with out cycle. 
    - cyclic graph
+   
    A node traversed through and end up back at itself. 
  
 
