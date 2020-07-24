@@ -33,4 +33,5 @@
 - [reading-31](https://henok-6411.github.io/reading-notes/class-31-reading)
 - [reading-32](https://henok-6411.github.io/reading-notes/class-32-reading)
 - [reading-33](https://henok-6411.github.io/reading-notes/class-33-reading)
+- [reading-34](https://henok-6411.github.io/reading-notes/class-34-reading)
 
